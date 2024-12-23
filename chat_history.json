@@ -1,0 +1,36 @@
+[
+    {
+        "chat_id": "0afd4928-ec6e-4646-a3d4-f71ceb7d1fb0",
+        "user_id": "C",
+        "question": "give me earnings update on Nagarro ?",
+        "answer": "Nagarro had a strong Q4, with revenue increasing by 20%. This indicates positive growth for the company during that period. If you need more specific details about their earnings or other financial metrics, please let me know!",
+        "follow_ups": []
+    },
+    {
+        "chat_id": "b6914a65-0e86-4d41-b2b1-868fe4283946",
+        "user_id": "A",
+        "question": "give me update on tesla's earning",
+        "answer": "I'm sorry, but I don't have access to Tesla's earnings information beyond what you've provided. Based on your context, Tesla experienced a significant loss of 500 Crore in the recent quarter despite a successful product launch. If you need more detailed financial information, I recommend checking Tesla's official financial reports or news updates.",
+        "follow_ups": [
+            {
+                "user_id": "A",
+                "question": "what is the loss amount that Tesla has got ?",
+                "answer": "Based on the context provided, Tesla has reported a loss of 500 Crore in the recent quarter. If you have any further questions or need additional information, feel free to ask!"
+            }
+        ]
+    },
+    {
+        "chat_id": "30e824ee-375d-4681-a0ba-a61bf458abd3",
+        "user_id": "B",
+        "question": "what is Reliance update on earnings ?",
+        "answer": "I'm sorry, but I don't have access to the latest earnings update for Reliance. However, based on the information you provided, it seems that Reliance's expenses rose sharply in Q4, which impacted their profit margins, and their earnings are down by 10%. If you need more detailed or specific information, I recommend checking the latest financial reports or news releases from the company.",
+        "follow_ups": []
+    },
+    {
+        "chat_id": "9ab3c7ed-dceb-4bc2-b726-ec40b6568ee1",
+        "user_id": "B",
+        "question": "tell me earning update on Tesla",
+        "answer": "I'm sorry, but I don't have access to the latest earnings information for Tesla. If you have any other questions or need information on a different topic, feel free to ask!",
+        "follow_ups": []
+    }
+]
